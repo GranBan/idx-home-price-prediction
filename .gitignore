@@ -1,0 +1,4 @@
+DataSet/
+*.csv
+*.pdf
+.DS_Store
