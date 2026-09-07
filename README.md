@@ -2,7 +2,7 @@
 
 Machine learning model to predict California single-family residential home close prices, built as part of the IDX Exchange Data Science Internship Program.
 
-**Live demo:** [Streamlit App](https://idx-home-price-prediction-app.streamlit.app/)
+**Live demo:** [Streamlit App](https://idx-home-price-prediction-app.streamlit.app/)  
 **Deployment repo:** [idx-home-price-prediction-streamlit](https://github.com/GranBan/idx-home-price-prediction-streamlit)
 
 ---
